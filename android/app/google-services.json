@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "490399500661",
+    "project_id": "bijack",
+    "storage_bucket": "bijack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490399500661:android:ebb61d7773ae3cd5bb2b3c",
+        "android_client_info": {
+          "package_name": "com.example.bijack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490399500661-5l87olndicb3bqu5v34e32sg3ovpbjgg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bijack",
+            "certificate_hash": "8cd0644c5b24a5b1b82432d6b1b16c51556ce92e"
+          }
+        },
+        {
+          "client_id": "490399500661-fg5d0ap9d96kf6aj7be8p62oftnkokgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYwDsUZy2wN6E0PY3D2KZ6SjfiXe7KcJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490399500661-fg5d0ap9d96kf6aj7be8p62oftnkokgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
